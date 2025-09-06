@@ -1,4 +1,6 @@
-﻿# EmpowHer_-Analyzing-Women-s-Labor-Market-Python-Data-Analysis
+﻿![CI](https://github.com/Asheermogal/EmpowHer_-Analyzing-Women-s-Labor-Market-Python-Data-Analysis/actions/workflows/ci-python.yml/badge.svg)
+
+# EmpowHer_-Analyzing-Women-s-Labor-Market-Python-Data-Analysis
 
 ## Overview
 Brief description.
@@ -12,4 +14,5 @@ How to run.
 
 ---
 © 2025 Asheer Mogal — All rights reserved.
+
 
